@@ -35,3 +35,4 @@ Esta aplicação permite que você insira um nome de usuário do GitHub e veja a
     Abra o arquivo `index.html` diretamente no seu navegador de preferência para usar a aplicação.
 
 ---
+*projeto desenvolvido como parte do curso DecQuest 2.0.*
